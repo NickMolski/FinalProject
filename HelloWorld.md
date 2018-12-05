@@ -7,7 +7,7 @@ Let's get started!
 1) At the top of the Python Shell, click "File" and click on "New File". An untitled file should pop up. Before we do anything, we need to save the file. In the untitled file, go under "File", then "Save As...". Save the file wherever you would like and name it "HelloWorld".
 
 2) Now that the file is saved, let's start coding! In this tutorial, we are going to have "Hello World!" pop up when we run the program. To do this, we are going to use "print()" Print is basically "printing" whatever is in the parameters (the parenthesis). So, we are going to do this:
-<br>
+
 ```
 print("Hello World!")
 ```
