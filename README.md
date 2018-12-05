@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# FinalProject
-=======
 <h2> Welcome to my Python tutorial!
 <h4> by Nick Molski
 
@@ -18,4 +15,3 @@ In this tutorial, I will be showing you the very basics of Python! We will first
 <h3>Begin by clicking "Hello World" and once your finished with that, go to Random Number Generator!
 <h5>[1) Hello World](HelloWorld.md)
 <h5>[2) Random Number Generator](RNG.md)
->>>>>>> Finished Project
