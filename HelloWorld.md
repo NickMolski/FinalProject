@@ -1,5 +1,5 @@
-<h2>Hello World Program!
-<body>
+## Hello World Program!
+
 This program is typically the first program anyone writes when learning a new software, and it's pretty simple!
 
 Let's get started!
@@ -8,7 +8,7 @@ Let's get started!
 
 2) Now that the file is saved, let's start coding! In this tutorial, we are going to have "Hello World!" pop up when we run the program. To do this, we are going to use "print()" Print is basically "printing" whatever is in the parameters (the parenthesis). So, we are going to do this:
 <br>
-```ruby
+```
 print("Hello World!")
 ```
 Make sure to put the quotation marks! If not, it will treat it as a variable (We will get into that in the 2nd program). The quotation marks treat the text inside as a string.

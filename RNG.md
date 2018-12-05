@@ -1,5 +1,5 @@
-<h2>Random Number Generator!
-<body>
+## Random Number Generator!
+
 This program is going to be slightly more difficult, but nothing you can't handle! In this tutorial, we are going to create a program that displays a random number 1-10.
 
 Let's get started!
@@ -41,5 +41,5 @@ print(number)
 6) Now run the program! A random number 1-10 should pop up in the Python Shell!
 
 Back to the README!
-<br>
+
 [README](README.md)
